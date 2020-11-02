@@ -80,7 +80,6 @@ pip install python-dateutil
 cd subserve
 python manage.py runserver
 링크(ex: http://127.0.0.1:8000/) 클릭
-
 ```
 
 🔹 **배포 설정**
