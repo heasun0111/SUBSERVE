@@ -76,6 +76,7 @@ python -m venv myvenv(가상환경 이름)
 source myvenv/Scripts/activate
 pip install Django
 python -m pip install Pillow
+pip install python-dateutil
 cd subserve
 python manage.py runserver
 링크(ex: http://127.0.0.1:8000/) 클릭
